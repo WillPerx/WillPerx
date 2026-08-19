@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WillPerx
-- 👀 I’m interested in learning about data science and machine learning.
-- 🌱 I’m currently learning Python and data structures.
+- 👀 I’m interested in learning about electrical and computer engineering.
+- 🌱 I’m currently learning C++ and data structures.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
